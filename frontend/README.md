@@ -1,4 +1,13 @@
-# frontend
+# Quotes Generator
+
+## Setup
+
+The first thing to do is to clone the repository:
+
+```sh
+$ git clone 
+$ cd quotesGenerator/frontend/
+```
 
 ## Project setup
 ```
